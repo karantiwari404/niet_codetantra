@@ -13,7 +13,7 @@
 | :------| :---------------|
 |Semester 2| [Problem Solving using Python Lab]() |
 |Semester 3| [Data Structure Lab using Python](https://github.com/iamVampire4/niet_codetantra/tree/main/Data%20structure%20using%20python) |
-|Semester 3| [OOT using Java Lab]() |
+|Semester 3| [OOT using Java Lab](https://github.com/iamVampire4/niet_codetantra/tree/main/Object%20Oriented%20Techniques%20using%20java%20Lab) |
 |Semester 4| [Operating System Lab using C]()|
 |Semester 4| [Design and Analysis of Algorithm Lab](https://github.com/iamVampire4/niet_codetantra/tree/main/Design%20and%20Analysis%20of%20Algorithm%20Lab) |
 
