@@ -1,4 +1,4 @@
-# this code is coded by VAMPIRE
+# this code is coded by Karan Tiwari
 print('Enter values for Matrix ')
 m = int(input('Number of rows, m = '))
 n = int(input('Number of columns, n = '))
